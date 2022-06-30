@@ -5,6 +5,8 @@ repo: status # The name of this repository
 sites:
   - name: ISLE Documentation
     url: https://isledocs.com
+  - name: CMU Statistics & Data Science ISLE Instance
+    url: http://isle.stat.cmu.edu/ping
   - name: CMU Heinz College ISLE Instance
     url: https://isle.heinz.cmu.edu/ping
   - name: Kymetis ISLE Instance
