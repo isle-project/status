@@ -1,5 +1,25 @@
 [
   {
+    "name": "ISLE Documentation",
+    "url": "https://isledocs.com",
+    "icon": "https://favicons.githubusercontent.com/isledocs.com",
+    "slug": "isle-documentation",
+    "status": "down",
+    "uptime": "14.54%",
+    "uptimeDay": "14.54%",
+    "uptimeWeek": "14.54%",
+    "uptimeMonth": "14.54%",
+    "uptimeYear": "14.54%",
+    "time": 99,
+    "timeDay": 99,
+    "timeWeek": 99,
+    "timeMonth": 99,
+    "timeYear": 99,
+    "dailyMinutesDown": {
+      "2022-06-30": 0
+    }
+  },
+  {
     "name": "CMU Heinz College ISLE Instance",
     "url": "https://isle.heinz.cmu.edu/ping",
     "icon": "https://favicons.githubusercontent.com/isle.heinz.cmu.edu",
@@ -10,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 564,
-    "timeDay": 564,
-    "timeWeek": 564,
-    "timeMonth": 564,
-    "timeYear": 564,
+    "time": 536,
+    "timeDay": 536,
+    "timeWeek": 536,
+    "timeMonth": 536,
+    "timeYear": 536,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 401,
-    "timeDay": 401,
-    "timeWeek": 401,
-    "timeMonth": 401,
-    "timeYear": 401,
+    "time": 395,
+    "timeDay": 395,
+    "timeWeek": 395,
+    "timeMonth": 395,
+    "timeYear": 395,
     "dailyMinutesDown": {}
   }
 ]
