@@ -1,25 +1,5 @@
 [
   {
-    "name": "CMU Statistics & Data Science ISLE Instance",
-    "url": "https://isle.stat.cmu.edu/ping",
-    "icon": "https://favicons.githubusercontent.com/isle.stat.cmu.edu",
-    "slug": "cmu-statistics-and-data-science-isle-instance",
-    "status": "down",
-    "uptime": "0.37%",
-    "uptimeDay": "0.37%",
-    "uptimeWeek": "0.37%",
-    "uptimeMonth": "0.37%",
-    "uptimeYear": "0.37%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-06-30": 5
-    }
-  },
-  {
     "name": "CMU Heinz College ISLE Instance",
     "url": "https://isle.heinz.cmu.edu/ping",
     "icon": "https://favicons.githubusercontent.com/isle.heinz.cmu.edu",
@@ -30,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 811,
-    "timeDay": 811,
-    "timeWeek": 811,
-    "timeMonth": 811,
-    "timeYear": 811,
+    "time": 619,
+    "timeDay": 619,
+    "timeWeek": 619,
+    "timeMonth": 619,
+    "timeYear": 619,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 516,
-    "timeDay": 516,
-    "timeWeek": 516,
-    "timeMonth": 516,
-    "timeYear": 516,
+    "time": 420,
+    "timeDay": 420,
+    "timeWeek": 420,
+    "timeMonth": 420,
+    "timeYear": 420,
     "dailyMinutesDown": {}
   }
 ]
