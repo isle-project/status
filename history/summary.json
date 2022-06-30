@@ -1,27 +1,27 @@
 [
   {
     "name": "CMU Statistics & Data Science ISLE Instance",
-    "url": "https://isle.stat.cmu.edu",
+    "url": "https://isle.stat.cmu.edu/ping",
     "icon": "https://favicons.githubusercontent.com/isle.stat.cmu.edu",
     "slug": "cmu-statistics-and-data-science-isle-instance",
     "status": "down",
-    "uptime": "10.93%",
-    "uptimeDay": "10.93%",
-    "uptimeWeek": "10.93%",
-    "uptimeMonth": "10.93%",
-    "uptimeYear": "10.93%",
+    "uptime": "0.37%",
+    "uptimeDay": "0.37%",
+    "uptimeWeek": "0.37%",
+    "uptimeMonth": "0.37%",
+    "uptimeYear": "0.37%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-30": 0
+      "2022-06-30": 5
     }
   },
   {
     "name": "CMU Heinz College ISLE Instance",
-    "url": "https://isle.heinz.cmu.edu",
+    "url": "https://isle.heinz.cmu.edu/ping",
     "icon": "https://favicons.githubusercontent.com/isle.heinz.cmu.edu",
     "slug": "cmu-heinz-college-isle-instance",
     "status": "up",
@@ -30,16 +30,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 762,
-    "timeDay": 762,
-    "timeWeek": 762,
-    "timeMonth": 762,
-    "timeYear": 762,
+    "time": 811,
+    "timeDay": 811,
+    "timeWeek": 811,
+    "timeMonth": 811,
+    "timeYear": 811,
     "dailyMinutesDown": {}
   },
   {
     "name": "Kymetis ISLE Instance",
-    "url": "https://isle.kymetis.com",
+    "url": "https://isle.kymetis.com/ping",
     "icon": "https://favicons.githubusercontent.com/isle.kymetis.com",
     "slug": "kymetis-isle-instance",
     "status": "up",
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 534,
-    "timeDay": 534,
-    "timeWeek": 534,
-    "timeMonth": 534,
-    "timeYear": 534,
+    "time": 516,
+    "timeDay": 516,
+    "timeWeek": 516,
+    "timeMonth": 516,
+    "timeYear": 516,
     "dailyMinutesDown": {}
   }
 ]
