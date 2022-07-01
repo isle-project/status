@@ -30,6 +30,7 @@ status-website:
   name: ISLE Instances
   introTitle: "ISLE Uptime and Status Page"
   introMessage: Current uptime and status of public instances.
+  favicon: https://isledocs.com/img/favicon.png
   navbar:
     - title: Status
       href: /
