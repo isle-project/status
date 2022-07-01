@@ -21,6 +21,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.isledocs.com
   logoUrl: https://raw.githubusercontent.com/isle-project/www/master/images/isle_icon_transparent.png
+  themeUrl: https://status.isledocs.com/isle-theme.css
   name: ISLE Instances
   introTitle: "ISLE Uptime and Status Page"
   introMessage: Current uptime and status of public instances.
