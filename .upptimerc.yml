@@ -5,23 +5,28 @@ repo: status # The name of this repository
 sites:
   - name: ISLE Documentation
     url: https://isledocs.com
+    icon: https://isledocs.com/img/favicon.png
   - name: ISLE Website
     url: https://stat.cmu.edu/isle
     __dangerous__insecure: true
+    icon: https://isledocs.com/img/favicon.png
   - name: CMU Statistics & Data Science ISLE Instance
     url: https://isle.stat.cmu.edu/ping
     __dangerous__insecure: true
+    icon: https://www.stat.cmu.edu/favicon.ico
   - name: CMU Heinz College ISLE Instance
     url: https://isle.heinz.cmu.edu/ping
+    icon: https://www.heinz.cmu.edu/heinz-shared/_files/favicon.ico
   - name: Kymetis ISLE Instance
     url: https://isle.kymetis.com/ping
+    icon: https://kymetis.com/favicon.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.isledocs.com
   logoUrl: https://raw.githubusercontent.com/isle-project/www/master/images/isle_icon_transparent.png
-  themeUrl: https://status.isledocs.com/isle-theme.css
+  themeUrl: https://raw.githubusercontent.com/isle-project/status/master/assets/isle-theme.css
   name: ISLE Instances
   introTitle: "ISLE Uptime and Status Page"
   introMessage: Current uptime and status of public instances.
