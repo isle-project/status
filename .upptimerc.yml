@@ -5,10 +5,12 @@ repo: status # The name of this repository
 sites:
   - name: ISLE Documentation
     url: https://isledocs.com
-#  - name: ISLE Website
-#    url: https://stat.cmu.edu/isle
-#  - name: CMU Statistics & Data Science ISLE Instance
-#    url: https://isle.stat.cmu.edu/ping
+  - name: ISLE Website
+    url: https://stat.cmu.edu/isle
+    __dangerous__insecure: true
+  - name: CMU Statistics & Data Science ISLE Instance
+    url: https://isle.stat.cmu.edu/ping
+    __dangerous__insecure: true
   - name: CMU Heinz College ISLE Instance
     url: https://isle.heinz.cmu.edu/ping
   - name: Kymetis ISLE Instance
@@ -30,6 +32,15 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+workflowSchedule:
+  graphs: "0 0 * * *" # Run the workflow every day at midnight
+  responseTime: "0 23 * * *" # Run every day at 23:00
+  staticSite: "0 1 * * *" # Generate the static site every day at 01:00
+  summary: "0 0 * * *" # Generate the summary every day at midnight
+  updateTemplate: "0 0 * * *" # Update the template every day at midnight
+  updates: "0 3 * * *" # Update the status every day at 03:00
+  uptime: "*/30 * * * *" # Update the uptime every 30 minutes
 
 assignees: # Users to assign downtime issues (optional)
   - Planeshifter
