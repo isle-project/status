@@ -34,8 +34,10 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: Documentation
+      href: https://isledocs.com/
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/isle-project
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
@@ -51,3 +53,6 @@ workflowSchedule:
 
 assignees: # Users to assign downtime issues (optional)
   - Planeshifter
+
+i18n:
+  footer: ""
