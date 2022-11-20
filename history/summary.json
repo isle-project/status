@@ -25,7 +25,7 @@
     "url": "https://stat.cmu.edu/isle",
     "icon": "https://isledocs.com/img/favicon.png",
     "slug": "isle-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,7 +36,9 @@
     "timeWeek": 421,
     "timeMonth": 616,
     "timeYear": 801,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-20": 0
+    }
   },
   {
     "name": "CMU Statistics & Data Science ISLE Instance",
