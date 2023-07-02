@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 157,
-    "timeDay": 108,
-    "timeWeek": 112,
-    "timeMonth": 123,
+    "timeDay": 233,
+    "timeWeek": 136,
+    "timeMonth": 127,
     "timeYear": 158,
-    "dailyMinutesDown": {
-      "2022-07-02": 51
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ISLE Website",
@@ -30,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 813,
-    "timeDay": 474,
-    "timeWeek": 641,
-    "timeMonth": 687,
+    "time": 815,
+    "timeDay": 1721,
+    "timeWeek": 826,
+    "timeMonth": 733,
     "timeYear": 813,
     "dailyMinutesDown": {
       "2023-02-18": 120,
@@ -52,9 +50,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 287,
-    "timeDay": 185,
-    "timeWeek": 217,
-    "timeMonth": 255,
+    "timeDay": 341,
+    "timeWeek": 255,
+    "timeMonth": 260,
     "timeYear": 287,
     "dailyMinutesDown": {}
   },
@@ -69,10 +67,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 460,
-    "timeDay": 263,
-    "timeWeek": 295,
-    "timeMonth": 401,
+    "time": 461,
+    "timeDay": 594,
+    "timeWeek": 348,
+    "timeMonth": 416,
     "timeYear": 460,
     "dailyMinutesDown": {}
   },
@@ -88,9 +86,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 262,
-    "timeDay": 147,
-    "timeWeek": 193,
-    "timeMonth": 210,
+    "timeDay": 348,
+    "timeWeek": 230,
+    "timeMonth": 216,
     "timeYear": 260,
     "dailyMinutesDown": {}
   }
