@@ -22,10 +22,10 @@
     "url": "https://stat.cmu.edu/isle",
     "icon": "https://isledocs.com/img/favicon.png",
     "slug": "isle-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 743,
@@ -34,6 +34,7 @@
     "timeMonth": 611,
     "timeYear": 720,
     "dailyMinutesDown": {
+      "2024-02-26": 1,
       "2023-10-20": 32,
       "2023-08-29": 20
     }
@@ -43,10 +44,10 @@
     "url": "https://isle.stat.cmu.edu/ping",
     "icon": "https://www.stat.cmu.edu/favicon.ico",
     "slug": "cmu-statistics-and-data-science-isle-instance",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 266,
@@ -55,6 +56,7 @@
     "timeMonth": 212,
     "timeYear": 262,
     "dailyMinutesDown": {
+      "2024-02-26": 1,
       "2023-08-29": 19
     }
   },
@@ -63,18 +65,19 @@
     "url": "https://isle.heinz.cmu.edu/ping",
     "icon": "https://www.heinz.cmu.edu/heinz-shared/_files/favicon.ico",
     "slug": "cmu-heinz-college-isle-instance",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 430,
+    "time": 423,
     "timeDay": 4732,
     "timeWeek": 996,
     "timeMonth": 455,
     "timeYear": 430,
     "dailyMinutesDown": {
+      "2024-02-26": 0,
       "2023-08-29": 19
     }
   },
