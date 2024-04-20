@@ -4,19 +4,19 @@
     "url": "https://isledocs.com",
     "icon": "https://isledocs.com/img/favicon.png",
     "slug": "isle-documentation",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 152,
-    "timeDay": 1758,
-    "timeWeek": 569,
-    "timeMonth": 249,
+    "timeDay": 1198,
+    "timeWeek": 515,
+    "timeMonth": 244,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2024-04-20": 0
+      "2024-04-20": 24
     }
   },
   {
